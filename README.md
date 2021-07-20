@@ -1,3 +1,0 @@
-# Solar-energy
-
-Hello world
